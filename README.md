@@ -6,4 +6,4 @@ Tools Used
 - Docker
 - Terminal
 
-Visit [article](https://dev.to/keneojiteli/deploy-a-docker-app-to-app-services-on-azure-5d3h) to know more about this project.
+Visit [this article](https://dev.to/keneojiteli/deploy-a-docker-app-to-app-services-on-azure-5d3h) to know more about this project.
